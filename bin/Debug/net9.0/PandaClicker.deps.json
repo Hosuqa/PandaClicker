@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PandaClicker/1.0.0": {
+        "runtime": {
+          "PandaClicker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PandaClicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
